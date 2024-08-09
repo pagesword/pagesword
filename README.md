@@ -23,7 +23,7 @@ my web canvas = pagesword.com
 
 here is the simple timer:
 📷 ![image](https://github.com/user-attachments/assets/49423dfa-9171-4ca4-9428-da0ddff29966)
-🔥 -> [timer](pagesword.com/timer)
+🔥 -> [timer](https://pagesword.com/timer)
 
 
 
