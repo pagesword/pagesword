@@ -31,13 +31,12 @@ here is the simple timer:
 - (soon)
 
 
+## 📄 Dev log
 
-[test video name](https://github.com/user-attachments/assets/bdbd1550-26e2-4a03-894b-e5164c34223b)
+🔹 Timer app
+🎥 https://github.com/user-attachments/assets/bdbd1550-26e2-4a03-894b-e5164c34223b
 
-
-svg experiments:
-
-
-https://github.com/user-attachments/assets/b7738610-3a76-4cb7-9581-bfca2799e9e9
+🔹 Doing experiments with svg files on the web
+🎥 https://github.com/user-attachments/assets/b7738610-3a76-4cb7-9581-bfca2799e9e9
 
 
