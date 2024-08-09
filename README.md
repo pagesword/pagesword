@@ -29,3 +29,15 @@ here is the simple timer:
 
 📘 Studying Materials
 - (soon)
+
+
+
+https://github.com/user-attachments/assets/bdbd1550-26e2-4a03-894b-e5164c34223b
+
+
+svg experiments:
+
+
+https://github.com/user-attachments/assets/b7738610-3a76-4cb7-9581-bfca2799e9e9
+
+
