@@ -12,15 +12,20 @@ my web canvas = pagesword.com
 
 
 
-📘 Studying Materials
-- coming soon
+
 
 
 👨‍💻 happy to work together on exciting projects
 
 
 
-100 mini apps in 100 days challenge on my mind
+🏆 100 mini apps in 100 days challenge on my mind
 
 here is the simple timer:
-![image](https://github.com/user-attachments/assets/49423dfa-9171-4ca4-9428-da0ddff29966)
+📷 ![image](https://github.com/user-attachments/assets/49423dfa-9171-4ca4-9428-da0ddff29966)
+🔥 -> [timer](pagesword.com/timer)
+
+
+
+📘 Studying Materials
+- (soon)
