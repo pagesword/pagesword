@@ -1,4 +1,10 @@
-Tech stack | ⭐ Fav
+## 🎥 What I built recently
+
+https://github.com/user-attachments/assets/b375c740-f177-4129-8bad-2aa0edd87d2c
+https://github.com/user-attachments/assets/5ac89937-fbcb-46c0-8d99-77eba09f536c
+
+## Tech stack | ⭐ Fav
+
 - 🧡 SvelteKit
 - 🟢 node.js
 - ⚫ electron
@@ -19,11 +25,7 @@ my web canvas = pagesword.com
 
 
 
-🏆 100 mini apps in 100 days challenge on my mind
-
-here is the simple timer:
-📷 ![image](https://github.com/user-attachments/assets/49423dfa-9171-4ca4-9428-da0ddff29966)
-🔥 -> [timer](https://pagesword.com/timer)
+🏆 100 mini apps in 100 days
 
 
 
@@ -31,18 +33,14 @@ here is the simple timer:
 - (soon)
 
 
-## 📄 Dev log
+
+
 
 🔹 Timer app
-🎥 https://github.com/user-attachments/assets/b80b16e3-c7e4-479c-903a-969146124f5a
-
-
-
-https://github.com/user-attachments/assets/98e7bbb8-c7b5-4b85-987e-b7ccc47d23c6
-
-
-
 🔹 Doing experiments with svg files on the web
-https://github.com/user-attachments/assets/b7738610-3a76-4cb7-9581-bfca2799e9e9
 
 
+
+
+📘 Want to learn or get more in depth:
+- GitHub advanced workflow, making the pipeline of auto buidling stuff in GitHub CI and then exporting that to my VPS / cf
