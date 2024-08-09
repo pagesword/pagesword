@@ -32,12 +32,6 @@ my web canvas = pagesword.com
 
 
 
-📘 Studying Materials
-- (soon)
-
-
-
-
 
 🔹 Timer app
 🔹 Doing experiments with svg files on the web
@@ -47,3 +41,11 @@ my web canvas = pagesword.com
 
 📘 Want to learn or get more in depth:
 - GitHub advanced workflow, making the pipeline of auto buidling stuff in GitHub CI and then exporting that to my VPS / cf
+
+
+
+● 
+● 
+● 
+● 
+● 
