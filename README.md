@@ -34,7 +34,13 @@ here is the simple timer:
 ## 📄 Dev log
 
 🔹 Timer app
-🎥 https://github.com/user-attachments/assets/bdbd1550-26e2-4a03-894b-e5164c34223b
+🎥 https://github.com/user-attachments/assets/b80b16e3-c7e4-479c-903a-969146124f5a
+
+
+
+https://github.com/user-attachments/assets/98e7bbb8-c7b5-4b85-987e-b7ccc47d23c6
+
+
 
 🔹 Doing experiments with svg files on the web
 https://github.com/user-attachments/assets/b7738610-3a76-4cb7-9581-bfca2799e9e9
