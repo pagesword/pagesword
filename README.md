@@ -46,8 +46,6 @@ my web canvas = pagesword.com
 
 
 
-● 
-● 
-● 
-● 
-● 
+
+
+more 📈 data & 🧠 self study coming soon
