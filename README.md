@@ -1,4 +1,7 @@
-## 🎥 What I built recently
+
+![image_8517](https://github.com/user-attachments/assets/f5a38c5a-412a-441e-8a23-c5500286f28a)
+
+## 🎥 What I built recently 🟦🟦🟦🟦
 
 https://github.com/user-attachments/assets/b375c740-f177-4129-8bad-2aa0edd87d2c
 
