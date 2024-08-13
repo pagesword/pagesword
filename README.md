@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/5697f2df-27b2-433f-a253-8ae52ec412cb
 
 | Column 1 | Column 2 | Column 3 |
 |----------|----------|----------|
-| Data     | Data     | [Data](https://github.com/user-attachments/assets/fa29a460-494b-4c3c-96ee-ba1272da76fc)     |
+| Data     | Data     | https://github.com/user-attachments/assets/fa29a460-494b-4c3c-96ee-ba1272da76fc    |
 
 
 https://github.com/user-attachments/assets/fa29a460-494b-4c3c-96ee-ba1272da76fc
