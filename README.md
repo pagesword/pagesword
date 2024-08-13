@@ -51,3 +51,10 @@ my web canvas = pagesword.com
 
 
 more 📈 data & 🧠 self study coming soon
+
+
+---
+
+
+![image](https://github.com/user-attachments/assets/cf1d070d-df2e-43f8-8458-26c90823a6a5)
+
