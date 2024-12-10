@@ -1,54 +1,25 @@
-
-
+latest updates to projects:
 
 https://github.com/user-attachments/assets/1e15e3b2-5667-414a-a199-f3ee0b67262d
 
-
-
 https://github.com/user-attachments/assets/3d8adb25-1017-46ee-b17d-ca7de6e1a2c0
-
-
 
 https://github.com/user-attachments/assets/53621089-2b71-424d-911c-0475f4e2cb6d
 
-
-
-https://github.com/user-attachments/assets/f768405c-f15e-42fd-adc5-fb582d9ad643
-
-https://github.com/user-attachments/assets/00a6697c-3b77-49c6-9e17-57b02ec6a248
-
-https://github.com/user-attachments/assets/e5ba0297-7d8c-4a5e-a92a-0245b0adec61
-
-https://github.com/user-attachments/assets/b375c740-f177-4129-8bad-2aa0edd87d2c
-
-https://github.com/user-attachments/assets/5ac89937-fbcb-46c0-8d99-77eba09f536c
-
-https://github.com/user-attachments/assets/5697f2df-27b2-433f-a253-8ae52ec412cb
-
-https://github.com/user-attachments/assets/fa29a460-494b-4c3c-96ee-ba1272da76fc
-
-https://github.com/user-attachments/assets/2b007260-7946-4db2-b2bf-e864652e9b23
-
-https://github.com/user-attachments/assets/efe66b04-97ef-4f5c-b1c0-8a7a6e8bcd8d
-
-https://github.com/user-attachments/assets/d666c1c5-e04a-4db6-bdf2-784ea4ca230d
-
-https://github.com/user-attachments/assets/8a20faac-cec0-4f83-a72f-6da7376eecbb
-
+some dev/desing process:
 
 ![image](https://github.com/user-attachments/assets/beb26ef2-5241-4cad-a07f-c3d07cbc56d5)
 
 ![image_8434](https://github.com/user-attachments/assets/7a9c81af-bd38-40c8-86c4-7b39b25d7e3b)
 
-
-## Tech stack | ⭐ Fav
+Tech stack | ⭐ Fav items. but it's way more than this
 
 - 🧡 SvelteKit
 - 🟢 node.js
 - ⚫ electron
 - bun.js
 
-## Notes & blog (coming soon)
+Notes & blog (coming soon)
 
 product guy, code & building my way with products, collecting ideas, 
 
@@ -69,8 +40,7 @@ my web canvas = pagesword.com
 
 more 📈 data & 🧠 self study coming soon
 
-
-## Drawing some memes & presentations on how projects are going
+Drawing some memes & presentations on how projects are going
 
 ![image](https://github.com/user-attachments/assets/cf1d070d-df2e-43f8-8458-26c90823a6a5)
 
