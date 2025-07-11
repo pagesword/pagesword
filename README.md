@@ -1,3 +1,21 @@
+dev challenges | to sort and update
+- canvas drawing library
+- working with gemini generative api
+- web scrapping in console 
+- unpacking bookmarks files to 
+- electron desktop app with access to filesytem and invisible windows
+- generative blog from .txt files. Parsing txt files
+- CV optimzier OCR
+- mongodb + mongoose + frontend
+- using ffmpeg in making web video editor
+- sveltekit endpoints
+- cloudflare KV, endpoints
+- real estate portal fullstack
+- generative images of swords
+- own analytics tool
+
+
+
 latest updates to projects:
 
 https://github.com/user-attachments/assets/1e15e3b2-5667-414a-a199-f3ee0b67262d
